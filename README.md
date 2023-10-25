@@ -1,6 +1,6 @@
 # Web Developer/Game Designer 
 
-## Technical Skills: 
+#### Technical Skills: 
   - Programming Languages: C++, PHP, Java, Python
   - Tools: Unreal, Unity, 3DSMAX
   - Web Development: HTML, CSS 
