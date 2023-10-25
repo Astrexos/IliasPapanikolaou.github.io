@@ -1,4 +1,4 @@
-# Web Developer/Game Designer with 2 years of experience combined in both fields. I have experience in various programming languages such as C++, PHP, Java, Python.
+# Web Developer/Game Designer 
 
 #### Technical Skills: 
   - Programming Languages: C++, PHP, Java, Python
