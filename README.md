@@ -22,7 +22,7 @@ IEK AKMI// Web Designer/Game Developer (2021 > Present)
         - Introduction to Word and Excel during the "Introduction to Informatics" course.
 
 ## Projects
-   -In progress
+   - In progress
 
 ## Languages
    - Greek/Native Language
